@@ -1,0 +1,6 @@
+{
+  "name": "VoiceTask AI",
+  "description": "AI-powered voice-to-task mobile application converting speech into structured actionable tasks with dynamic date/time resolution using Gemini.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
